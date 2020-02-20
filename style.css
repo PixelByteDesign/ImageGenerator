@@ -1,0 +1,10 @@
+@charset "utf-8";
+#ig-logo-access {
+	font-size: 700%; margin: 100px; margin-bottom: 18px;
+}
+footer {
+	width: 100%; background-color: #212529; padding: 18px;
+}
+footer p {
+	margin: 0;
+}
