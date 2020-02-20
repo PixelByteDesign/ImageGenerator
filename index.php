@@ -8,7 +8,8 @@
 <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-	
+
+<!-- Main menu - Top menu -->	
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="#"><i class="fa fa-cogs"></i> Image Generator</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -69,6 +70,7 @@
 	</div>
 </div>
 
+<!-- Footer -->	
 <footer class="text-light text-center fixed-bottom">
 	<p>Powered by <a href="https://www.pixelbytedesign.com" class="text-info">PixelByteDesign</a> - Bogotá D.C., Colombia 2020</p>	
 </footer>
